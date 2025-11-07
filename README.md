@@ -20,13 +20,11 @@ Actualmente participo en el **Hackathon de Rayls 2025**, donde busco aprender, c
 ---
 
 ## 📫 Conecta conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/andres-contreras)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/andres-contreras-448874363/)  
 - 💬 Telegram: [@criptomania](https://t.me/criptomania)  
 - ✉️ Email: kelerp2025@gmail.com  
 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelerp2025&show_icons=true&theme=radical)
-
-
 
